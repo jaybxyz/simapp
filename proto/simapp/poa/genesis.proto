@@ -1,5 +1,5 @@
 syntax = "proto3";
-package poa;
+package simapp.poa;
 
 import "gogoproto/gogo.proto";
 import "tendermint/abci/types.proto";
