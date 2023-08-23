@@ -3,3 +3,6 @@ build/
 
 # macos
 .DS_Store
+
+# testdata
+testdata
